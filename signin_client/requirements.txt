@@ -52,7 +52,7 @@ olefile==0.45.1
 paramiko==2.1.2
 password-strength==0.0.3.post2
 pexpect==4.2.1
-Pillow==5.1.0
+Pillow==6.2.0
 precis-i18n==1.0.0
 protobuf==3.0.0
 pyasn1==0.2.3
