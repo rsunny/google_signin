@@ -72,7 +72,7 @@ python-axolotl==0.1.39
 python-axolotl-curve25519==0.1
 python-dateutil==2.7.2
 python-debian==0.1.32
-python-gnupg==0.4.1
+python-gnupg==0.4.4
 pytz==2018.3
 pyxdg==0.25
 PyYAML==3.12
