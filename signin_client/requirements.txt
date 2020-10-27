@@ -14,7 +14,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.3.7
 command-not-found==0.3
-cryptography==2.7
+cryptography==3.2
 cupshelpers==1.0
 Cython==0.29.13
 defer==1.0.6
